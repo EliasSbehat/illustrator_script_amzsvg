@@ -1,0 +1,5 @@
+ 1. hide or delete layer with background
+2. release clipping masks
+3. resize artboard to 18x24"
+4. group all artwork
+5. resize artwork to 17.5x23.5"
